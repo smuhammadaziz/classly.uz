@@ -42,10 +42,10 @@ function Navbar() {
                 Testimonials
               </Link>
               <Link
-                to="/about"
+                to="/contact"
                 className="inline-flex items-center px-1 pt-1 text-gray-700 hover:text-accent-blue border-b-2 border-transparent hover:border-accent-blue transition duration-200"
               >
-                About
+                Contact
               </Link>
             </div>
           </div>
@@ -105,10 +105,10 @@ function Navbar() {
             Testimonials
           </Link>
           <Link
-            to="/about"
+            to="/contact"
             className="block pl-3 pr-4 py-2 text-base font-medium text-gray-700 hover:text-accent-blue hover:bg-gray-50"
           >
-            About
+            Contact
           </Link>
           <div className="mt-4 flex flex-col space-y-2 px-3">
             <Link
